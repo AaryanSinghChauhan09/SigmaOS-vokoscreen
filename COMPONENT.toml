@@ -3,7 +3,7 @@ name = "SigmaOS-vokoscreen"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "vokoscreen component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
